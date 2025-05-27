@@ -1,0 +1,9 @@
+
+7
+java:S1220""Move this file to a named package.8ğÑ®™ñ2
+G	java:S106"+Replace this use of System.out by a logger.(ô¤„å8öÑ®™ñ2
+]	java:S125"<This block of commented-out lines of code should be removed.(ùÚöïşÿÿÿÿ8Àõõ™ñ2
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8öÑ®™ñ2
+S
+java:S1128"6Remove this unused import 'javax.swing.UIManager.get'.(±‚Ü²8öÑ®™ñ2
