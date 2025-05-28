@@ -1,7 +1,7 @@
 
-0
-java:S1220""Move this file to a named package.
-@
-java:S3457"%String contains no format specifiers.(Šª„ıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Šª„ıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Ğö¶üÿÿÿÿ
+7
+java:S1220""Move this file to a named package.8™ºÃñ2
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8»ºÃñ2
+L	java:S106""+Replace this use of System.out by a logger.(åö¡½úÿÿÿÿ8¾ºÃñ2
+]	java:S125#"<This block of commented-out lines of code should be removed.(¾ÜÉŠûÿÿÿÿ8ÙÚÇÄñ2
