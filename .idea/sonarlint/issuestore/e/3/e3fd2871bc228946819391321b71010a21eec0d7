@@ -1,0 +1,16 @@
+
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¯’g8Áæ‘“ò2
+7
+java:S1220""Move this file to a named package.8Âæ‘“ò2
+l
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(›¯’g8Þæ‘“ò2
+T
+java:S1854!"7Remove this useless assignment to local variable "two".(Ø¨·ý8¶¢““ò2
+K
+java:S1481	")Remove this unused "prev" local variable.(£‡ÞŽûÿÿÿÿ8ßæ‘“ò2
+D
+java:S1125"'Remove the unnecessary boolean literal.(‘Œ‰¾8òÑœ“ò2
+D
+java:S1125"'Remove the unnecessary boolean literal.(–ñ›±8àæ‘“ò2
+G	java:S106)"+Replace this use of System.out by a logger.(‚¨Ö§8ˆÌ—“ò2
